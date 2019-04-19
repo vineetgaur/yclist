@@ -566,3 +566,8 @@ Zenysis
   http://www.zenysis.com
   For-profit company building powerful data analysis software for developing countries
   note: vertical: Enterprise
+  
+  work square
+  https://worksquare.in/campaign
+  coworking space for startups in india 
+  note: consumers
